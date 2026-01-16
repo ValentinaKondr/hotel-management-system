@@ -1,7 +1,5 @@
 package valentinakondr.booking.dto;
 
-
-
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.UUID;

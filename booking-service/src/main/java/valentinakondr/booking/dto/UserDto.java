@@ -1,6 +1,5 @@
 package valentinakondr.booking.dto;
 
-
 import java.util.UUID;
 
 public record UserDto(

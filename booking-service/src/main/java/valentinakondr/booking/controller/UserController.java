@@ -1,6 +1,5 @@
 package valentinakondr.booking.controller;
 
-
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
